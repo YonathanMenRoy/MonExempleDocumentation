@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>wfaExempleDocumentation</name>
+    </assembly>
+    <members>
+        <member name="T:wfaExempleDocumentation.Form1">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:wfaExempleDocumentation.Form1.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:wfaExempleDocumentation.Form1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:wfaExempleDocumentation.Form1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:wfaExempleDocumentation.Form1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:wfaExempleDocumentation.IExemple">
+            <summary>
+            This interface is an exemple for documentation.
+            </summary>
+            
+        </member>
+        <member name="M:wfaExempleDocumentation.IExemple.ExampleFunction(System.Int32,System.Int32)">
+            <summary>
+            This function is here only to show an example for documentation.
+            </summary>
+            <param name="param1"> First parameter (to add)</param>
+            <param name="param2">Second parameter (to add)</param>
+            <returns> An int , this function could add two integers. </returns>
+        </member>
+        <member name="M:wfaExempleDocumentation.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:wfaExempleDocumentation.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:wfaExempleDocumentation.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:wfaExempleDocumentation.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

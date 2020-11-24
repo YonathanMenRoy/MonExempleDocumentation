@@ -1,8 +1,10 @@
-C:\Repositories real\MonExempleDocumentation\wfaExempleDocumentation\wfaExempleDocumentation\bin\Debug\wfaExempleDocumentation.exe.config
-C:\Repositories real\MonExempleDocumentation\wfaExempleDocumentation\wfaExempleDocumentation\bin\Debug\wfaExempleDocumentation.exe
-C:\Repositories real\MonExempleDocumentation\wfaExempleDocumentation\wfaExempleDocumentation\bin\Debug\wfaExempleDocumentation.pdb
 C:\Repositories real\MonExempleDocumentation\wfaExempleDocumentation\wfaExempleDocumentation\obj\Debug\wfaExempleDocumentation.csprojAssemblyReference.cache
 C:\Repositories real\MonExempleDocumentation\wfaExempleDocumentation\wfaExempleDocumentation\obj\Debug\wfaExempleDocumentation.Properties.Resources.resources
 C:\Repositories real\MonExempleDocumentation\wfaExempleDocumentation\wfaExempleDocumentation\obj\Debug\wfaExempleDocumentation.csproj.GenerateResource.cache
 C:\Repositories real\MonExempleDocumentation\wfaExempleDocumentation\wfaExempleDocumentation\obj\Debug\wfaExempleDocumentation.exe
 C:\Repositories real\MonExempleDocumentation\wfaExempleDocumentation\wfaExempleDocumentation\obj\Debug\wfaExempleDocumentation.pdb
+C:\Repositories real\MonExempleDocumentation\wfaExempleDocumentation.exe.config
+C:\Repositories real\MonExempleDocumentation\wfaExempleDocumentation\wfaExempleDocumentation\README.XML
+C:\Repositories real\MonExempleDocumentation\wfaExempleDocumentation.exe
+C:\Repositories real\MonExempleDocumentation\wfaExempleDocumentation.pdb
+C:\Repositories real\MonExempleDocumentation\README.XML
