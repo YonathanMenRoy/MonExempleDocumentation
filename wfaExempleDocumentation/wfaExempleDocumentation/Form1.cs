@@ -11,12 +11,12 @@ using System.Windows.Forms;
 namespace wfaExempleDocumentation
 {
     /// <summary>
-    /// 
+    /// Formulaire d'affichage principale
     /// </summary>
     public partial class Form1 : Form
     {
         /// <summary>
-        /// 
+        /// Ui Constructor 
         /// </summary>
         public Form1()
         {

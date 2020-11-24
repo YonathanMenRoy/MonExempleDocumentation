@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wfaExempleDocumentation", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassExample1.Apps", "wfaExempleDocumentation\ClassExample1.Apps\ClassExample1.Apps.csproj", "{8BDE709A-1A68-4F20-B1C6-B06408297631}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleDocumentation.Domain", "ExampleDocumentation.Domain\ExampleDocumentation.Domain.csproj", "{7AA94E7C-5275-4AE2-8C14-8B39954D9E4E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8BDE709A-1A68-4F20-B1C6-B06408297631}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BDE709A-1A68-4F20-B1C6-B06408297631}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BDE709A-1A68-4F20-B1C6-B06408297631}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AA94E7C-5275-4AE2-8C14-8B39954D9E4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AA94E7C-5275-4AE2-8C14-8B39954D9E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AA94E7C-5275-4AE2-8C14-8B39954D9E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AA94E7C-5275-4AE2-8C14-8B39954D9E4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

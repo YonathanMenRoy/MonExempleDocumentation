@@ -1,0 +1,6 @@
+C:\Repositories real\MonExempleDocumentation\wfaExempleDocumentation\ExampleDocumentation.Domain\obj\Debug\ExampleDocumentation.Domain.csprojAssemblyReference.cache
+C:\Repositories real\MonExempleDocumentation\wfaExempleDocumentation\ExampleDocumentation.Domain\obj\Debug\ExampleDocumentation.Domain.dll
+C:\Repositories real\MonExempleDocumentation\wfaExempleDocumentation\ExampleDocumentation.Domain\README.xml
+C:\Repositories real\MonExempleDocumentation\wfaExempleDocumentation\ExampleDocumentation.Domain\obj\Debug\ExampleDocumentation.Domain.pdb
+C:\Repositories real\MonExempleDocumentation\wfaExempleDocumentation\ExampleDocumentation.Domain\ExampleDocumentation.Domain.dll
+C:\Repositories real\MonExempleDocumentation\wfaExempleDocumentation\ExampleDocumentation.Domain\ExampleDocumentation.Domain.pdb

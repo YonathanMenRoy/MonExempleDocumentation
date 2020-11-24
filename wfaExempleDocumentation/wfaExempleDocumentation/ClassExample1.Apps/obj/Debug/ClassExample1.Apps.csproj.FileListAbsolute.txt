@@ -1,0 +1,9 @@
+C:\Repositories real\MonExempleDocumentation\wfaExempleDocumentation\wfaExempleDocumentation\ClassExample1.Apps\bin\Debug\ClassExample1.Apps.dll
+C:\Repositories real\MonExempleDocumentation\wfaExempleDocumentation\wfaExempleDocumentation\ClassExample1.Apps\bin\Debug\ClassExample1.Apps.pdb
+C:\Repositories real\MonExempleDocumentation\wfaExempleDocumentation\wfaExempleDocumentation\ClassExample1.Apps\bin\Debug\wfaExempleDocumentation.exe
+C:\Repositories real\MonExempleDocumentation\wfaExempleDocumentation\wfaExempleDocumentation\ClassExample1.Apps\bin\Debug\wfaExempleDocumentation.pdb
+C:\Repositories real\MonExempleDocumentation\wfaExempleDocumentation\wfaExempleDocumentation\ClassExample1.Apps\bin\Debug\wfaExempleDocumentation.exe.config
+C:\Repositories real\MonExempleDocumentation\wfaExempleDocumentation\wfaExempleDocumentation\ClassExample1.Apps\obj\Debug\ClassExample1.Apps.csprojAssemblyReference.cache
+C:\Repositories real\MonExempleDocumentation\wfaExempleDocumentation\wfaExempleDocumentation\ClassExample1.Apps\obj\Debug\ClassExample1.Apps.csproj.CopyComplete
+C:\Repositories real\MonExempleDocumentation\wfaExempleDocumentation\wfaExempleDocumentation\ClassExample1.Apps\obj\Debug\ClassExample1.Apps.dll
+C:\Repositories real\MonExempleDocumentation\wfaExempleDocumentation\wfaExempleDocumentation\ClassExample1.Apps\obj\Debug\ClassExample1.Apps.pdb

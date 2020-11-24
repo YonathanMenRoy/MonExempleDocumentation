@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ExampleDocumentation.Domain</name>
+    </assembly>
+    <members>
+        <member name="T:ExampleDocumentation.Domain.EampleDAO1">
+            <summary>
+            Example class for documentation in Domain.
+            </summary>
+        </member>
+        <member name="M:ExampleDocumentation.Domain.EampleDAO1.ExempleFucntionGetAll(System.Collections.Generic.List{System.Int32})">
+            <summary>
+            Function for documentation example.
+            </summary>
+            <param name="param">List of int </param>
+        </member>
+    </members>
+</doc>

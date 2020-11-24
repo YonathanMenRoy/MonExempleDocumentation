@@ -6,12 +6,12 @@
     <members>
         <member name="T:wfaExempleDocumentation.Form1">
             <summary>
-            
+            Formulaire d'affichage principale
             </summary>
         </member>
         <member name="M:wfaExempleDocumentation.Form1.#ctor">
             <summary>
-            
+            Ui Constructor 
             </summary>
         </member>
         <member name="F:wfaExempleDocumentation.Form1.components">

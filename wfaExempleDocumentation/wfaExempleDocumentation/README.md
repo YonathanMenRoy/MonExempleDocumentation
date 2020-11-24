@@ -25,14 +25,14 @@ wfaExempleDocumentation
 
 ##### Summary
 
-
+Formulaire d'affichage principale
 
 <a name='M-wfaExempleDocumentation-Form1-#ctor'></a>
 ### #ctor() `constructor`
 
 ##### Summary
 
-
+Ui Constructor
 
 ##### Parameters
 
