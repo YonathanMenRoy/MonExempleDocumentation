@@ -12,4 +12,4 @@ Ici, vous pourrez trouver la documnentation nécessaire pour comprendre la progr
 
 * [Projet UI](wfaExempleDocumentation/wfaExempleDocumentation/README.md)
 * [Projet Application Service](DocumentedExemple/DocumentationExemples.ApplicationServices/README.md)
-* [Projet Domain](wfaExempleDocumentation/wfaExempleDocumentation_Domain/README.md)
+* [Projet Domain](wfaExempleDocumentation/wfaExempleDocumentation_Domain/README.xml)
